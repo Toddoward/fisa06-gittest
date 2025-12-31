@@ -40,4 +40,4 @@ print("hello world!")
 [네이버 바로가기](http://naver.com)
 
 - 이미지 링크
-![https://avatars.githubusercontent.com/u/91007890?v=4](https://github.com/Toddoward)
+![https://github.com/Toddoward](https://avatars.githubusercontent.com/u/91007890?v=4)
