@@ -40,4 +40,6 @@ print("hello world!")
 [네이버 바로가기](http://naver.com)
 
 - 이미지 링크
-<image src="https://avatars.githubusercontent.com/u/91007890?v=4" width="200" url="https://github.com/Toddoward">
+<a href="https://github.com/Toddoward">
+    <image src="https://avatars.githubusercontent.com/u/91007890?v=4" width="200" url="https://github.com/Toddoward" alt = "Git Profile Image">
+</a>
